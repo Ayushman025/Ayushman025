@@ -15,7 +15,7 @@ Python · Java · C/C++ · JavaScript · HTML/CSS · React · Node.js · Express
 
 ## 📌 Projects
 - **[DineDesk](https://github.com/Ayushman025/DineDesk)** — Restaurant Management System (MCA final project, Grade A+). Full-stack: React 18, Node.js, Express, MongoDB. Menu, table, and order management, dashboard, and daily sales reports.
-- **Currency Converter** — BCA final project in Python, using exchange-rate APIs with a SQLite/MySQL database for currencies and rates.
+- **[Currency Converter](https://github.com/Ayushman025/Currency-Converter)** — BCA final project in Python, using exchange-rate APIs with a SQLite/MySQL database for currencies and rates.
 - **[Webcode](https://github.com/Ayushman025/Webcode)** — HTML, CSS, and JavaScript mini projects from my web development practice.
 - **[webdev1prac](https://github.com/Ayushman025/webdev1prac)** — Day-by-day HTML practice exercises.
 
